@@ -1,4 +1,4 @@
-# Project 21 - Call Center Database
+# Call Center Database
 
 This project contains SQL scripts for a call center database with customers, agents, departments, calls, call logs, and feedback.
 
